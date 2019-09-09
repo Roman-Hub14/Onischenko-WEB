@@ -2,3 +2,5 @@ git clone https://github.com/Roman-Hub14/Onischenko-WEB.git
 git add numbPIB.txt
 git commit -m "firs commit"
 git add numbPIB.txt
+git commit -m "dobavil PIB"
+
