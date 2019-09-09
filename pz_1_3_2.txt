@@ -9,7 +9,7 @@ git add pz_1_3_1.txt
 git commit -m "make first commit"
 git add pz_1_3_1.txt
 git commit -m "dobavil vse s repozitiria___2"
-git add pz_1_3_1.txt
+git add pz_1_3_1.txt 
 git commit -m "make commit PIB"
 git add pz_1_3_1.txt
 git commit -m "zalil na github"
